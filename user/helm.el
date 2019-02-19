@@ -21,7 +21,7 @@
       helm-echo-input-in-header-line        t)
 
 (setq helm-autoresize-max-height 0
-      helm-autoresize-min-height 20)
+      helm-autoresize-min-height 40)
 (helm-autoresize-mode 1)
 
 (helm-mode 1)
