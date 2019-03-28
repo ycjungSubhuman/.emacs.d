@@ -1,5 +1,7 @@
 recentf
+\#recentf\#
 elpa/
+.lsp*
 auto-save-list/
 *\~
 
