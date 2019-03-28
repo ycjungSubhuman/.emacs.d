@@ -1,1 +1,1 @@
-(setq c-default-style "yucheol")
+(setq c-default-style "llvm.org")

@@ -7,6 +7,7 @@
 (init-mod '("user"))
 (init-mod '("keymaps"))
 (init-mod '("style"))
+(init-mod '("mode"))
 
 (menu-bar-mode -1)
 (tool-bar-mode -1)
