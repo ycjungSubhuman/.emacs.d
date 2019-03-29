@@ -37,7 +37,7 @@
  '(line-spacing 0.2)
  '(package-selected-packages
    (quote
-    (cmake-mode evil-collection latex-math-preview latex-preview-pane poet-theme lsp-mode cquery evil-tabs projectile helm evil ##))))
+    (evil-paredit paredit clojure-mode cmake-mode evil-collection latex-math-preview latex-preview-pane poet-theme lsp-mode cquery evil-tabs projectile helm evil ##))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
